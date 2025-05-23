@@ -14,24 +14,34 @@ saude-digital-acessivel/
 ├── assets/
 │   ├── css/
 │   │   ├── style.css
-│   │   └── responsivo.css
+│   │   └── login.css
 │   ├── img/
-│   │   ├── logoHC.png
+│   │   ├── iconeLogoHC.png
 │   │   ├── FacebookLogo.jpg
 │   │   ├── InstagramLogo.jpg
 │   │   ├── Guia1.jpg
 │   │   ├── Guia2.jpg
 │   │   ├── Guia3.jpg
 │   │   └── Guia4.jpg
+│   │   └── andre-imagem.jpg
+│   │   └── Gabriel-imagem.jpg
+│   │   └── logo_parceria_hc_jag_ajustada.jpg
+│   │   └── VideoImagem.jpg
+│   │   └── BotImagem.jpg
+│   │   └── interfaceImagem.jpg
+│   │   └── joaoImagem.jpg
 │   └── js/
 │       ├── form-validation.js
 │       └── script.js
+│       └── validacao-cadastro.js
 ├
 │── ├── contato.html
 │   ├── faq.html
 │   ├── guia.html
 │   ├── index.html
 │   └── integrantes.html
+    └── login.html
+    └── cadastro.html
 └── README.md
 ```
 
@@ -44,13 +54,9 @@ saude-digital-acessivel/
 ## 👥 Integrantes
 | Nome | RM | GitHub | LinkedIn |
 |------|----|--------|----------|
-| André Emygdio Ferreira | 565592 | [Asuyz](https://github.com/Asuyz) | - |
-| Gabriel Lourenço Müller | 561995 | [glMuller](https://github.com/glMuller) | - |
-| João Victor Nascimento Adão | 563409 | [yJoaoVictor10](https://github.com/yJoaoVictor10) | [Perfil LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-ad%C3%A3o-494728283/) |
-
-## 🔗 Repositório
-Acesse o projeto no GitHub:  
-(https://github.com/Front-End-ChallengeHC-1TDSPG/Sprint-Front-HC)
+| André Emygdio Ferreira | 565592 | [Asuyz](https://github.com/Asuyz) | [André](https://www.linkedin.com/in/andr%C3%A9-emygdio-ferreira-46bb32219/) |
+| Gabriel Lourenço Müller | 561995 | [glMuller](https://github.com/glMuller) | [Gabriel](https://www.linkedin.com/in/gabriel-m%C3%BCller-595020354/) |
+| João Victor Nascimento Adão | 563409 | [yJoaoVictor10](https://github.com/yJoaoVictor10) | [João](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-ad%C3%A3o-494728283/) |
 
 ## ✨ Funcionalidades
 - ✅ Páginas responsivas
@@ -59,6 +65,8 @@ Acesse o projeto no GitHub:
 - ✅ FAQ interativo
 - ✅ Guia passo a passo
 - ✅ Página "Quem Somos"
+- ✅ Página Login
+- ✅ Página Cadastro
 
 
 
