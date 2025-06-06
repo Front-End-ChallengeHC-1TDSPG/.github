@@ -1,55 +1,52 @@
-# Saúde Digital Acessível
+# SOS ENCHENTES 🌊🆘
 
-## 📌 Objetivo do Projeto
-Desenvolver uma plataforma web que facilite o acesso aos serviços de saúde digital, especialmente para pessoas com dificuldades tecnológicas ou idosos, oferecendo:
+## 📝 Objetivo do Projeto
+O projeto **SOS ENCHENTES** tem como principal objetivo fornecer uma plataforma digital de apoio, conscientização e auxílio às pessoas afetadas por enchentes. Através do site, os usuários podem acessar informações úteis sobre como se proteger, onde buscar ajuda, como realizar doações e colaborar com campanhas de suporte às vítimas. Além disso, a plataforma visa facilitar a conexão entre quem precisa de ajuda e quem deseja contribuir, promovendo solidariedade e impacto social positivo.
 
-- Guias passo a passo para uso de aplicativos de saúde
-- FAQ com perguntas frequentes
-- Canal de contato para suporte
-- Informações sobre a equipe desenvolvedora
-
+---
 ## 📂 Estrutura de Pastas
 ```
-Sprint-Front-HC/
+gs-sos-enchentes/
 ├── assets/
 │   ├── css/
 │   │   ├── style.css
-│   │   └── login.css
+│   │   
 │   ├── img/
-│   │   ├── iconelogoHC.png
-│   │   ├── facebooklogo.jpg
-│   │   ├── instagramlogo.jpg
-│   │   ├── guia1.jpg
-│   │   ├── guia2.jpg
-│   │   ├── guia3.jpg
-│   │   └── guia4.jpg
-│   │   └── andre-imagem.jpg
-│   │   └── gabriel-imagem.jpg
-│   │   └── logo_parceria_hc_jag_ajustada.jpg
-│   │   └── videoimagem.jpg
-│   │   └── botimagem.jpg
-│   │   └── interfaceimagem.jpg
-│   │   └── joaoimagem.jpg
+│   │   ├── analise-dados.png
+│   │   ├── andre-imagem.jpg
+│   │   ├── desligar-energia.jpg
+│   │   ├── enchente.jpg
+│   │   ├── fundo.jpg
+│   │   ├── Gabriel-imagem.jpg
+│   │   └── ia-meteorologia.jpg
+│   │   └── image.jpg
+│   │   └── joaoImagem.jpg
+│   │   └── limpar-casa.jpg
+│   │   └── logo.jpg
+│   │   └── rede-sensores.jpg
+│   │   └── rua-limpa.jpg
+│   │   └── sensores-inteligentes.jpg
+│   │   └── sistema-alerta.jpg
 │   └── js/
-│       ├── form-validation.js
-│       └── script.js
-│       └── validacao-cadastro.js
-├
-│── ├── contato.html
+│       ├── script.js
+│
+│── ├── alertas.html
+│   ├── contato.html
 │   ├── faq.html
-│   ├── guia.html
 │   ├── index.html
 │   └── integrantes.html
-    └── login.html
-    └── cadastro.html
+│    └── mapa.html
+│    └── prevencao.html
+│    └── solucao.html
 └── README.md
 ```
-
 ## 💻 Tecnologias Utilizadas
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
 
 ## 👥 Integrantes
 | Nome | RM | GitHub | LinkedIn |
@@ -58,19 +55,7 @@ Sprint-Front-HC/
 | Gabriel Lourenço Müller | 561995 | [glMuller](https://github.com/glMuller) | [Gabriel](https://www.linkedin.com/in/gabriel-m%C3%BCller-595020354/) |
 | João Victor Nascimento Adão | 563409 | [yJoaoVictor10](https://github.com/yJoaoVictor10) | [João](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-ad%C3%A3o-494728283/) |
 
-## ✨ Funcionalidades
-- ✅ Páginas responsivas
-- ✅ Menu mobile
-- ✅ Formulário com validação
-- ✅ FAQ interativo
-- ✅ Guia passo a passo
-- ✅ Página "Quem Somos"
-- ✅ Página Login
-- ✅ Página Cadastro
+---
 
-## 🖥️ Endereço do repositório do projeto no GITHUB: https://github.com/Front-End-ChallengeHC-1TDSPG/Sprint-Front-HC
-
-
-<div align="center">
-  <sub>Criado com ❤ por Equipe De Estudantes Apaixonados por TECH!</sub>
-</div>
+## 🖥️ Endereço do repositório do projeto no GITHUB: 
+https://github.com/Arquivos-Global-Solution-AGJ/GS-front
